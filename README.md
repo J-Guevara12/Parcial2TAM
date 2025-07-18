@@ -12,6 +12,10 @@
 * Video de youtube**: Corresponde al punto e:
 
 ## Video:
+Por favor hacer click sobre la imagen
+
+[![video](2b7264fc-7b5d-4d53-af20-43c429163a16.jfif)](https://www.youtube.com/watch?v=VvVxFFYH_wU)
+
 
 ## Dashboard:
 
