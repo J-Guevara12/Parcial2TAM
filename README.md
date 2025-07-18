@@ -13,3 +13,18 @@
 
 ## Video:
 
+## Dashboard:
+
+El dashboard se presenta primero con una pantalla de muestra de imagenes, donde nos podemos hacer una idea de como están conformadas las entradas de los modelos:
+![image](galery.PNG)
+
+Posterior a ello encontraremos una comparativa del rendimiento de los modelos, y su capacidad para detectar cada uno de los números.
+![image](performance.PNG)
+
+En la sección de Proyecciones se puede evidenciar cómo se visualiza una proyección PCA con UMAP:
+
+![image](projections.PNG)
+
+Finalmente, hay una sección interactiva que permite dibujar un cierto número y realizar predicciones en base a este
+
+![image](interactive.PNG)
